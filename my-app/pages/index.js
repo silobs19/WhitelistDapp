@@ -203,7 +203,7 @@ export default function Home() {
             NFT collection for vamps in crypto.
           </div>
           <div className={styles.description}>
-            {numberOfWhitelisted} vamps joined the Whitelist.
+            {numberOfWhitelisted} vamp(s) joined the Whitelist.
           </div>
           {renderButton()}
         </div>
